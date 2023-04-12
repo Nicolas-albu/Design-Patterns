@@ -1,4 +1,4 @@
-package Java.Factory;
+package Java.FactoryMethod;
 
 /**
  * Interface que representa qualquer tipo de carta.

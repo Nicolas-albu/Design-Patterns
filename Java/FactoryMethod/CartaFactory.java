@@ -1,4 +1,4 @@
-package Java.Factory;
+package Java.FactoryMethod;
 
 /*
  * Classe responsável por representar a fábrica para criação das cartas.

@@ -1,4 +1,4 @@
-package Java.Factory;
+package Java.FactoryMethod;
 
 /*
  * Uma classe CartaNormal que implementa a interface Carta para exemplo.

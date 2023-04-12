@@ -1,4 +1,4 @@
-package Java.Factory;
+package Java.FactoryMethod;
 
 /*
  * Uma classe CartaNaipe que implementa a interface Carta para exemplo.
